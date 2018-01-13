@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "change challenge"
+title                    : "challenge to change"
 title_separator          : "-"
 name                     : "teneltt"
 description              : "An hello world website."
