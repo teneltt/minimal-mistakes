@@ -1,0 +1,3 @@
+agileInnovation app is for test my google sheets handleling by script.
+
+for personal uses
